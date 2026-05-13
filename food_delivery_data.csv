@@ -1,0 +1,1001 @@
+Order ID,Order Date,Region,Restaurant,Customer Type,Order Value ($),Delivery Time (mins),Marketing Spend (per user),Is Cancelled,Variable Costs ($)
+1000,2025-06-23,Central,Sushi Spot,New,21.3,51,21.73,No,11.71
+1001,2025-03-14,Central,Pizza Hut,Returning,18.34,54,1.2,No,8.42
+1002,2025-04-03,Central,Taco Bell,New,11.7,21,13.72,No,8.15
+1003,2025-05-23,South,Local Diner,New,16.36,34,17.11,No,10.03
+1004,2025-01-23,West,McDonalds,Returning,34.91,51,0.71,No,17.15
+1005,2025-03-31,North,KFC,Returning,40.06,44,3.13,No,20.35
+1006,2025-04-28,West,Pizza Hut,New,22.68,33,12.56,No,11.03
+1007,2025-04-24,North,Subway,Returning,24.47,34,1.34,No,13.15
+1008,2025-03-01,East,Sushi Spot,Returning,28.88,35,1.29,No,16.12
+1009,2025-04-05,North,Taco Bell,Returning,16.8,38,2.93,No,8.92
+1010,2025-03-11,North,Local Diner,Returning,23.81,36,1.73,No,12.74
+1011,2025-02-28,East,Taco Bell,VIP,60.26,20,1.03,No,24.38
+1012,2025-04-29,East,Local Diner,Returning,22.12,57,3.28,No,10.68
+1013,2025-05-07,North,Sushi Spot,New,15.14,20,17.28,No,8.88
+1014,2025-04-30,Central,Taco Bell,New,14.99,42,10.42,No,10.92
+1015,2025-06-22,North,KFC,Returning,25.22,54,1.37,No,10.62
+1016,2025-03-24,East,Taco Bell,Returning,22.56,35,4.52,No,10.6
+1017,2025-03-13,West,KFC,VIP,43.92,57,4.38,No,18.23
+1018,2025-03-09,South,Subway,Returning,18.89,53,3.12,No,9.77
+1019,2025-04-14,North,McDonalds,VIP,39.55,34,1.97,Yes,0
+1020,2025-01-02,West,Subway,New,22.27,20,23.86,No,12.29
+1021,2025-04-29,Central,McDonalds,VIP,56.53,58,3.97,No,24.28
+1022,2025-03-22,North,Pizza Hut,Returning,36.92,49,0.34,No,14.86
+1023,2025-04-02,South,Taco Bell,Returning,16.06,25,4.86,No,10.34
+1024,2025-04-08,South,Local Diner,Returning,20.43,31,4.67,No,11.21
+1025,2025-05-30,East,Pizza Hut,New,11.93,44,17.23,No,7.48
+1026,2025-06-25,West,Sushi Spot,VIP,69.44,56,1.12,No,28.3
+1027,2025-06-16,East,Local Diner,Returning,38.4,47,4.64,No,18.91
+1028,2025-04-18,South,Local Diner,Returning,15.74,29,1.22,Yes,0
+1029,2025-02-04,West,Local Diner,VIP,71.95,58,3.94,No,30.99
+1030,2025-02-23,North,Taco Bell,New,17.87,24,16.56,No,9.57
+1031,2025-06-24,Central,Sushi Spot,New,28.85,37,11.98,No,12.03
+1032,2025-03-24,West,Burger King,Returning,21.3,46,4.42,No,11.05
+1033,2025-04-12,Central,Taco Bell,Returning,27.31,37,1.91,No,14.63
+1034,2025-05-02,West,Sushi Spot,Returning,34.79,38,0.48,No,14.99
+1035,2025-01-19,Central,McDonalds,New,16.7,34,17.94,No,10.41
+1036,2025-05-18,Central,Subway,Returning,43.62,59,0.05,No,20.28
+1037,2025-06-11,South,Pizza Hut,Returning,23.87,48,4.63,No,12.47
+1038,2025-03-07,North,Burger King,Returning,27.21,43,4.41,No,13.07
+1039,2025-04-20,East,Local Diner,New,19.71,40,18.62,No,10.22
+1040,2025-03-24,North,KFC,New,22.12,47,15.03,No,9.59
+1041,2025-03-30,West,Burger King,Returning,33.95,56,4.96,No,18.79
+1042,2025-01-06,West,Burger King,Returning,30.58,32,2.6,No,12.93
+1043,2025-03-12,Central,McDonalds,New,15.08,52,24.83,No,7.98
+1044,2025-06-04,East,Subway,Returning,42.86,25,4.89,No,20.13
+1045,2025-02-16,East,Sushi Spot,Returning,42.9,48,4.67,No,19.12
+1046,2025-05-10,Central,McDonalds,New,28.9,38,23.3,No,13.89
+1047,2025-01-07,West,Local Diner,Returning,31.72,53,2.78,No,16.34
+1048,2025-02-21,West,Local Diner,Returning,17.26,24,2.68,No,11.39
+1049,2025-04-01,East,Burger King,Returning,39.01,45,4.68,No,17.5
+1050,2025-02-24,East,Pizza Hut,VIP,52.31,45,0.08,No,24.09
+1051,2025-05-11,Central,Subway,Returning,33.71,51,0.39,No,16.66
+1052,2025-06-27,Central,KFC,Returning,39.67,39,0.11,No,15.93
+1053,2025-06-06,South,Sushi Spot,Returning,28.14,27,3.27,No,16.53
+1054,2025-04-03,South,KFC,New,20.1,27,17.33,No,9.63
+1055,2025-05-05,Central,Taco Bell,Returning,39.34,60,3.59,No,21.56
+1056,2025-01-16,North,Local Diner,Returning,26.73,48,2.22,No,11.14
+1057,2025-03-21,East,Sushi Spot,Returning,43.77,43,4.79,No,18.53
+1058,2025-04-13,West,Local Diner,Returning,43.92,40,4.57,No,19.64
+1059,2025-03-28,West,Local Diner,VIP,38.85,60,2.05,Yes,0
+1060,2025-01-05,Central,KFC,VIP,50.81,56,0.92,Yes,0
+1061,2025-05-30,South,KFC,Returning,15.07,38,0.56,No,10.39
+1062,2025-02-19,South,Pizza Hut,Returning,15.46,53,0.59,No,9.75
+1063,2025-06-17,North,Local Diner,Returning,36.5,57,0.78,No,20.13
+1064,2025-03-31,South,Pizza Hut,Returning,21.51,53,1.9,No,9.44
+1065,2025-01-05,Central,Burger King,New,23.29,51,15.48,No,13.32
+1066,2025-03-29,South,Subway,New,10.3,37,19.1,No,5.51
+1067,2025-02-24,Central,Pizza Hut,Returning,41.39,52,1.73,No,23.03
+1068,2025-04-27,West,Sushi Spot,Returning,17.84,56,4.28,Yes,0
+1069,2025-01-04,West,KFC,New,17.03,48,12.63,No,11.7
+1070,2025-06-18,East,McDonalds,New,21.91,30,20.85,No,13.75
+1071,2025-03-29,South,Sushi Spot,Returning,23.52,27,4.64,No,13.55
+1072,2025-03-18,East,Taco Bell,New,22.45,39,16.31,No,13.31
+1073,2025-05-04,East,Taco Bell,Returning,19.27,20,2.1,No,9.83
+1074,2025-01-25,Central,Pizza Hut,Returning,44.78,46,1.46,No,20.69
+1075,2025-03-26,Central,McDonalds,Returning,36.54,21,1.48,No,18.42
+1076,2025-03-31,Central,Pizza Hut,Returning,37.05,37,1.85,No,16.08
+1077,2025-02-05,South,KFC,Returning,30.93,23,0.95,No,16.5
+1078,2025-01-20,South,Pizza Hut,Returning,30.78,30,1.35,No,16.62
+1079,2025-05-26,North,Subway,Returning,34.94,51,4.86,No,15.57
+1080,2025-06-02,West,Burger King,Returning,36.8,34,2.6,No,18.42
+1081,2025-05-08,Central,McDonalds,Returning,38.32,44,2.48,No,17.65
+1082,2025-06-06,West,Pizza Hut,Returning,38.9,28,0.24,No,16.33
+1083,2025-04-29,North,Pizza Hut,New,27.49,45,20.54,Yes,0
+1084,2025-05-03,East,Burger King,Returning,31.5,23,3.18,No,12.87
+1085,2025-06-28,West,KFC,New,20.7,54,18.81,No,11.89
+1086,2025-04-27,East,Pizza Hut,Returning,26.55,58,3.09,No,11.34
+1087,2025-04-01,East,Burger King,Returning,17.61,46,4.18,No,9.16
+1088,2025-03-22,North,McDonalds,New,12.87,34,17.67,No,7.86
+1089,2025-06-01,Central,Sushi Spot,Returning,25.53,53,4.06,Yes,0
+1090,2025-06-02,North,Sushi Spot,Returning,25.95,53,0.02,Yes,0
+1091,2025-04-08,North,KFC,New,17.9,49,12.74,No,10.14
+1092,2025-04-30,South,Local Diner,Returning,24.73,57,0.38,No,12.53
+1093,2025-01-16,East,Local Diner,New,24.1,43,22.99,No,14.27
+1094,2025-01-02,East,KFC,Returning,23.95,23,4.36,No,9.85
+1095,2025-06-04,East,Taco Bell,Returning,16.42,30,4.79,No,10.04
+1096,2025-03-20,East,Subway,Returning,17.97,28,4.0,No,9.86
+1097,2025-05-14,North,Local Diner,Returning,30.84,35,3.49,No,14.33
+1098,2025-05-31,South,Sushi Spot,New,25.29,21,12.88,Yes,0
+1099,2025-01-04,East,Local Diner,Returning,24.94,54,0.0,No,14.52
+1100,2025-02-12,West,Taco Bell,New,25.1,37,16.79,No,12.56
+1101,2025-06-17,Central,Taco Bell,Returning,18.87,52,0.89,No,10.37
+1102,2025-05-26,North,McDonalds,Returning,42.92,23,2.97,No,20.92
+1103,2025-04-21,West,Sushi Spot,Returning,17.32,35,0.13,No,9.57
+1104,2025-02-15,North,Subway,Returning,31.87,44,3.94,No,17.58
+1105,2025-04-22,South,McDonalds,VIP,35.93,54,1.38,No,15.29
+1106,2025-03-27,North,McDonalds,VIP,51.46,32,0.11,No,26.46
+1107,2025-03-29,Central,KFC,New,16.59,45,20.56,No,8.27
+1108,2025-02-07,Central,Taco Bell,Returning,43.21,23,0.39,Yes,0
+1109,2025-06-28,East,Burger King,Returning,27.06,56,4.67,No,12.46
+1110,2025-05-21,South,Sushi Spot,VIP,38.14,58,2.28,No,15.3
+1111,2025-06-07,West,KFC,Returning,44.63,48,2.15,No,20.16
+1112,2025-04-29,Central,Pizza Hut,Returning,24.07,39,0.37,No,12.56
+1113,2025-04-09,North,Subway,Returning,30.26,28,2.92,No,13.18
+1114,2025-04-03,West,Sushi Spot,Returning,32.22,38,1.05,No,14.88
+1115,2025-06-14,North,McDonalds,New,15.97,42,14.33,No,9.93
+1116,2025-03-03,North,Pizza Hut,Returning,28.98,34,4.79,No,15.37
+1117,2025-01-15,South,Pizza Hut,VIP,40.98,34,1.49,No,18.49
+1118,2025-01-24,Central,Local Diner,New,20.26,31,11.92,No,12.19
+1119,2025-06-09,East,KFC,Returning,33.22,39,1.58,No,15.35
+1120,2025-03-27,South,McDonalds,New,16.02,44,13.33,No,10.26
+1121,2025-04-05,West,Burger King,Returning,37.34,48,4.47,No,20.72
+1122,2025-02-27,East,Subway,Returning,29.36,32,0.26,No,13.74
+1123,2025-04-13,East,Subway,New,25.13,39,15.83,No,11.91
+1124,2025-01-01,South,McDonalds,Returning,27.43,53,3.99,No,14.18
+1125,2025-03-27,North,Subway,VIP,62.43,44,3.81,No,31.01
+1126,2025-02-13,Central,McDonalds,Returning,27.12,53,0.27,No,12.68
+1127,2025-05-05,Central,KFC,Returning,43.05,53,1.77,No,20.62
+1128,2025-03-20,North,Local Diner,New,29.57,58,10.04,No,14.65
+1129,2025-05-13,East,Sushi Spot,Returning,30.23,25,1.52,No,15.54
+1130,2025-06-04,Central,Subway,New,29.32,24,18.45,No,16.55
+1131,2025-04-01,North,Taco Bell,Returning,43.83,35,0.25,No,20.1
+1132,2025-05-05,South,Burger King,Returning,34.09,41,1.56,No,17.99
+1133,2025-01-14,Central,Local Diner,Returning,44.54,51,2.7,No,20.14
+1134,2025-05-20,East,Burger King,Returning,37.1,35,4.88,No,17.51
+1135,2025-06-14,Central,Burger King,Returning,37.15,52,0.99,No,16.08
+1136,2025-01-28,Central,Pizza Hut,Returning,39.1,27,3.33,No,18.85
+1137,2025-04-19,Central,KFC,Returning,16.46,39,3.58,No,11.72
+1138,2025-04-28,West,Taco Bell,Returning,38.4,46,0.17,No,15.7
+1139,2025-05-02,Central,Subway,Returning,40.23,58,3.97,No,19.21
+1140,2025-06-07,North,Local Diner,Returning,33.38,45,2.98,No,18.43
+1141,2025-06-14,West,Burger King,VIP,39.59,40,0.88,Yes,0
+1142,2025-06-21,North,KFC,Returning,33.25,39,3.87,No,16.22
+1143,2025-03-03,East,McDonalds,New,29.75,52,10.21,No,14.37
+1144,2025-06-14,West,Subway,Returning,21.68,56,4.82,No,12.14
+1145,2025-02-12,South,Pizza Hut,New,12.4,43,21.77,No,7.09
+1146,2025-06-24,East,Subway,New,24.36,25,21.34,No,12.92
+1147,2025-01-02,Central,KFC,Returning,16.06,39,0.26,No,10.78
+1148,2025-04-18,South,Subway,Returning,39.1,52,2.24,No,18.14
+1149,2025-03-29,South,KFC,New,10.42,34,21.98,No,7.03
+1150,2025-03-31,West,Sushi Spot,Returning,40.24,45,2.26,No,17.73
+1151,2025-03-14,South,Pizza Hut,Returning,20.22,32,1.96,No,12.91
+1152,2025-01-04,North,Pizza Hut,VIP,46.22,55,3.63,No,20.03
+1153,2025-01-17,North,Burger King,Returning,16.23,43,0.49,No,8.32
+1154,2025-01-12,West,Taco Bell,New,18.24,37,17.69,No,9.64
+1155,2025-01-09,North,Taco Bell,New,14.12,51,15.89,No,9.0
+1156,2025-05-12,North,Subway,New,21.97,55,19.77,No,13.02
+1157,2025-01-16,Central,Subway,Returning,38.26,48,0.28,No,19.47
+1158,2025-04-15,West,McDonalds,Returning,20.27,32,2.59,No,8.46
+1159,2025-02-16,West,Pizza Hut,VIP,66.7,34,3.94,Yes,0
+1160,2025-01-23,South,McDonalds,Returning,33.7,56,0.45,No,13.52
+1161,2025-04-20,East,Burger King,Returning,24.74,34,0.13,No,13.07
+1162,2025-05-03,North,Taco Bell,Returning,16.46,43,2.15,No,8.15
+1163,2025-06-23,Central,Burger King,VIP,60.02,49,3.64,No,24.47
+1164,2025-03-10,East,Local Diner,Returning,42.64,35,0.06,No,19.22
+1165,2025-06-22,South,McDonalds,New,24.42,49,18.91,No,12.78
+1166,2025-03-29,East,Subway,VIP,52.79,20,0.65,No,22.52
+1167,2025-01-03,Central,McDonalds,Returning,43.28,37,0.03,No,19.33
+1168,2025-04-17,West,Subway,Returning,40.0,26,0.29,No,20.72
+1169,2025-02-04,East,KFC,Returning,28.83,31,1.63,No,15.24
+1170,2025-01-25,North,KFC,Returning,44.11,53,1.49,No,19.97
+1171,2025-04-15,East,Sushi Spot,New,15.05,35,11.35,No,9.64
+1172,2025-06-07,North,KFC,Returning,17.21,60,3.93,No,10.29
+1173,2025-03-29,South,Taco Bell,Returning,15.44,44,4.84,No,9.44
+1174,2025-03-01,Central,Subway,New,22.57,39,12.21,No,10.09
+1175,2025-02-02,South,Taco Bell,New,20.97,26,24.5,No,11.97
+1176,2025-04-22,Central,Subway,Returning,29.92,22,1.78,No,11.67
+1177,2025-02-22,West,Local Diner,Returning,40.66,59,1.41,No,18.25
+1178,2025-04-13,East,KFC,New,11.26,47,13.74,No,6.25
+1179,2025-04-24,North,McDonalds,New,23.51,55,16.85,No,10.34
+1180,2025-05-28,East,KFC,New,24.69,23,21.88,No,14.93
+1181,2025-01-13,West,Local Diner,Returning,40.77,29,1.5,No,18.61
+1182,2025-01-18,West,Taco Bell,Returning,29.97,46,4.48,No,16.23
+1183,2025-03-21,North,Local Diner,Returning,31.63,52,1.82,No,17.22
+1184,2025-04-29,South,Sushi Spot,VIP,35.52,38,1.12,No,14.99
+1185,2025-05-23,Central,Local Diner,New,25.3,41,18.0,No,13.14
+1186,2025-06-06,South,Taco Bell,Returning,39.65,32,4.37,No,16.27
+1187,2025-03-15,Central,Taco Bell,Returning,38.69,31,1.09,No,19.47
+1188,2025-03-27,North,Sushi Spot,Returning,41.45,48,3.09,No,15.12
+1189,2025-06-30,South,KFC,Returning,38.85,42,3.84,No,18.61
+1190,2025-04-27,West,McDonalds,New,23.51,37,12.42,Yes,0
+1191,2025-02-26,North,Taco Bell,Returning,29.47,51,4.52,No,14.63
+1192,2025-05-29,South,Subway,Returning,44.45,25,4.87,No,19.6
+1193,2025-05-23,East,Local Diner,Returning,15.27,60,3.66,No,10.28
+1194,2025-06-19,West,Local Diner,New,15.0,40,12.85,No,7.64
+1195,2025-02-09,Central,Local Diner,New,13.85,57,12.1,No,8.01
+1196,2025-02-13,Central,Pizza Hut,Returning,23.08,38,4.83,No,9.21
+1197,2025-04-03,East,Sushi Spot,Returning,28.66,53,4.63,No,15.51
+1198,2025-05-23,West,Subway,New,13.78,55,21.3,No,10.42
+1199,2025-03-02,West,McDonalds,Returning,38.46,43,4.91,No,19.76
+1200,2025-03-15,North,Burger King,Returning,22.1,29,2.06,No,12.27
+1201,2025-03-03,Central,Subway,Returning,20.27,38,2.3,Yes,0
+1202,2025-02-04,North,Sushi Spot,Returning,40.76,42,0.16,No,19.44
+1203,2025-04-30,Central,McDonalds,Returning,19.27,60,3.32,No,8.94
+1204,2025-04-08,South,Local Diner,Returning,43.01,28,3.73,No,21.55
+1205,2025-01-04,North,Sushi Spot,Returning,32.38,60,3.11,No,15.81
+1206,2025-05-25,Central,Burger King,New,24.26,51,21.22,No,11.78
+1207,2025-01-20,North,Pizza Hut,New,18.0,55,14.14,No,11.82
+1208,2025-06-17,East,Taco Bell,New,25.7,20,12.13,No,14.99
+1209,2025-01-14,Central,Taco Bell,Returning,37.14,38,2.95,No,14.16
+1210,2025-06-11,East,Taco Bell,Returning,25.98,23,4.03,No,15.63
+1211,2025-06-04,West,Subway,Returning,38.78,36,3.9,No,16.06
+1212,2025-04-16,South,KFC,New,19.76,37,15.9,No,11.11
+1213,2025-03-30,West,Burger King,Returning,36.61,29,3.03,No,17.14
+1214,2025-04-29,West,Sushi Spot,Returning,21.91,50,1.8,Yes,0
+1215,2025-05-18,Central,KFC,New,11.97,59,20.34,No,7.66
+1216,2025-03-03,Central,Burger King,Returning,27.33,43,4.67,No,15.09
+1217,2025-05-17,South,Taco Bell,Returning,15.51,25,0.02,No,9.65
+1218,2025-03-20,East,McDonalds,Returning,26.08,54,1.78,No,13.34
+1219,2025-04-25,South,Burger King,Returning,16.96,23,0.61,No,12.25
+1220,2025-06-01,West,McDonalds,Returning,42.32,36,0.45,No,20.39
+1221,2025-06-09,North,Local Diner,New,24.71,20,12.65,No,13.48
+1222,2025-03-26,East,Burger King,New,29.31,57,10.5,No,15.5
+1223,2025-02-23,North,Taco Bell,Returning,43.6,49,3.65,No,17.98
+1224,2025-04-12,East,Taco Bell,Returning,22.8,22,0.02,No,13.68
+1225,2025-05-21,South,Taco Bell,Returning,19.44,48,3.19,No,8.92
+1226,2025-03-19,North,Burger King,Returning,33.51,42,3.02,No,16.14
+1227,2025-02-15,West,KFC,New,14.5,48,13.36,No,10.25
+1228,2025-02-20,North,Local Diner,Returning,18.77,59,0.23,No,11.87
+1229,2025-01-18,North,Sushi Spot,New,22.04,25,18.97,No,12.29
+1230,2025-05-19,West,Subway,Returning,42.51,24,0.33,No,18.67
+1231,2025-05-06,Central,Subway,VIP,58.61,22,3.83,No,23.81
+1232,2025-02-02,West,Taco Bell,Returning,37.06,57,1.61,No,17.98
+1233,2025-03-29,South,McDonalds,New,25.4,37,11.89,No,13.9
+1234,2025-05-04,Central,Burger King,Returning,26.64,36,4.11,No,12.16
+1235,2025-01-04,West,Subway,Returning,37.91,38,3.2,No,17.17
+1236,2025-05-31,West,KFC,New,25.9,42,12.41,No,14.52
+1237,2025-06-12,North,Burger King,Returning,21.85,32,1.57,No,11.56
+1238,2025-01-14,South,Local Diner,New,14.6,60,18.55,No,8.03
+1239,2025-01-20,South,KFC,New,25.78,54,22.24,No,13.12
+1240,2025-04-30,West,Local Diner,New,22.44,27,22.82,No,13.52
+1241,2025-05-31,West,Taco Bell,Returning,22.16,38,0.57,No,13.12
+1242,2025-02-23,Central,Pizza Hut,Returning,15.96,40,3.56,No,11.56
+1243,2025-02-15,South,Sushi Spot,Returning,43.27,25,3.31,No,23.91
+1244,2025-02-13,Central,KFC,New,28.22,52,11.31,No,13.22
+1245,2025-04-24,South,Pizza Hut,Returning,27.09,32,1.87,No,15.17
+1246,2025-01-30,Central,Sushi Spot,VIP,71.23,55,3.76,No,29.91
+1247,2025-02-21,East,McDonalds,Returning,35.57,29,4.35,No,18.17
+1248,2025-03-02,South,Pizza Hut,Returning,22.77,54,0.64,No,12.64
+1249,2025-02-15,North,Taco Bell,Returning,25.1,24,2.03,No,12.17
+1250,2025-03-01,Central,Local Diner,Returning,31.56,53,2.13,No,16.34
+1251,2025-01-02,West,McDonalds,New,29.01,40,19.42,No,15.63
+1252,2025-02-04,Central,Local Diner,New,12.2,37,17.62,No,8.36
+1253,2025-03-03,South,Local Diner,New,23.07,23,19.88,No,11.49
+1254,2025-01-23,South,Burger King,New,14.83,59,23.72,Yes,0
+1255,2025-05-27,West,Local Diner,New,27.8,56,22.1,No,11.02
+1256,2025-03-26,North,Local Diner,Returning,22.92,24,2.76,No,11.73
+1257,2025-05-02,East,KFC,Returning,21.55,57,3.95,No,9.49
+1258,2025-01-01,East,Subway,Returning,15.25,40,0.19,No,9.3
+1259,2025-06-16,North,Burger King,New,29.55,45,14.67,No,12.04
+1260,2025-05-31,North,Local Diner,Returning,42.46,56,3.88,No,17.23
+1261,2025-01-07,North,KFC,New,29.35,53,16.1,No,14.9
+1262,2025-03-07,West,Taco Bell,Returning,36.07,50,2.17,No,16.02
+1263,2025-04-06,West,McDonalds,Returning,42.69,36,2.0,No,19.7
+1264,2025-01-18,South,Sushi Spot,Returning,41.66,42,1.26,No,21.41
+1265,2025-01-02,Central,Local Diner,Returning,35.71,23,4.1,No,14.31
+1266,2025-03-21,West,Sushi Spot,New,21.29,27,22.19,No,13.34
+1267,2025-01-02,North,Local Diner,Returning,26.72,47,2.2,No,13.65
+1268,2025-05-04,South,Local Diner,Returning,42.39,30,1.01,No,17.54
+1269,2025-05-09,Central,Local Diner,Returning,36.48,48,1.45,No,17.36
+1270,2025-03-03,West,Pizza Hut,Returning,36.86,32,3.05,Yes,0
+1271,2025-06-13,West,Burger King,Returning,44.21,49,0.26,No,21.69
+1272,2025-03-31,South,Sushi Spot,Returning,41.28,53,2.67,No,17.76
+1273,2025-05-18,West,McDonalds,New,15.14,35,15.24,No,7.99
+1274,2025-04-24,South,Taco Bell,New,23.33,21,12.59,No,11.47
+1275,2025-01-17,East,Burger King,New,28.81,20,24.35,Yes,0
+1276,2025-04-22,East,Local Diner,Returning,29.09,48,2.9,No,12.3
+1277,2025-05-01,West,Sushi Spot,Returning,16.67,37,3.39,No,9.17
+1278,2025-04-30,South,Burger King,Returning,17.63,43,1.78,No,11.11
+1279,2025-05-24,Central,Sushi Spot,Returning,33.87,26,0.43,No,16.41
+1280,2025-01-11,West,Pizza Hut,New,15.08,55,18.71,No,9.96
+1281,2025-03-06,South,McDonalds,Returning,31.3,58,3.76,No,13.42
+1282,2025-01-01,North,Pizza Hut,VIP,63.95,54,1.56,No,25.17
+1283,2025-06-27,North,Subway,Returning,32.38,52,0.36,No,12.19
+1284,2025-06-30,East,Burger King,Returning,34.0,29,2.55,No,15.13
+1285,2025-02-22,Central,Subway,Returning,41.42,31,4.0,No,17.21
+1286,2025-05-28,South,Subway,Returning,25.12,20,1.99,No,13.24
+1287,2025-03-03,West,Taco Bell,Returning,25.79,34,0.7,No,12.75
+1288,2025-04-29,East,Sushi Spot,Returning,27.92,32,3.75,No,12.89
+1289,2025-04-18,West,Local Diner,Returning,30.14,36,3.02,No,17.09
+1290,2025-02-23,North,Subway,Returning,38.12,20,3.18,No,18.27
+1291,2025-01-22,East,Pizza Hut,Returning,18.17,57,4.25,No,11.26
+1292,2025-06-12,South,Taco Bell,Returning,44.51,24,3.86,No,20.25
+1293,2025-03-20,West,Pizza Hut,Returning,39.26,33,0.04,No,18.29
+1294,2025-03-14,South,Sushi Spot,Returning,27.18,35,2.07,No,13.57
+1295,2025-05-20,North,KFC,Returning,31.69,57,4.02,No,13.8
+1296,2025-03-19,Central,Burger King,New,21.43,32,17.4,No,10.08
+1297,2025-05-16,West,Taco Bell,VIP,76.6,53,2.96,No,37.09
+1298,2025-05-24,Central,Subway,New,26.74,58,17.59,No,13.5
+1299,2025-05-06,South,Subway,Returning,31.48,57,1.34,No,11.88
+1300,2025-05-15,North,Subway,Returning,42.05,43,3.62,No,18.89
+1301,2025-03-05,North,KFC,New,13.17,51,10.84,No,6.5
+1302,2025-03-03,West,Pizza Hut,New,29.84,38,20.1,No,13.23
+1303,2025-01-18,South,Subway,VIP,64.91,35,3.89,No,29.09
+1304,2025-02-14,North,Taco Bell,Returning,41.73,53,3.78,No,18.08
+1305,2025-06-14,East,Sushi Spot,Returning,19.33,38,0.93,No,11.7
+1306,2025-05-13,East,Sushi Spot,New,12.67,47,15.38,No,6.44
+1307,2025-06-07,Central,McDonalds,New,21.04,48,16.31,Yes,0
+1308,2025-03-15,South,Pizza Hut,New,28.12,32,12.49,No,14.62
+1309,2025-04-24,West,Burger King,New,19.29,59,23.73,No,11.4
+1310,2025-06-05,East,Pizza Hut,Returning,34.84,60,1.27,No,16.81
+1311,2025-06-01,Central,Taco Bell,Returning,30.44,37,0.97,No,16.01
+1312,2025-03-13,West,Sushi Spot,Returning,41.84,60,3.83,No,15.47
+1313,2025-04-02,East,Burger King,VIP,69.6,28,0.26,No,32.32
+1314,2025-01-19,East,McDonalds,New,13.48,39,21.65,No,7.25
+1315,2025-05-24,South,Pizza Hut,Returning,15.26,29,3.48,No,9.39
+1316,2025-01-25,North,Pizza Hut,New,27.75,34,23.96,Yes,0
+1317,2025-05-21,North,Pizza Hut,Returning,33.62,23,3.55,No,13.08
+1318,2025-05-28,Central,Sushi Spot,New,22.21,37,22.84,No,11.47
+1319,2025-06-13,South,McDonalds,New,14.84,43,13.97,No,11.29
+1320,2025-01-17,Central,KFC,New,11.71,32,14.72,No,8.29
+1321,2025-05-22,Central,KFC,VIP,68.22,53,1.58,No,31.23
+1322,2025-03-19,North,Taco Bell,VIP,64.89,24,4.56,No,22.72
+1323,2025-04-21,East,McDonalds,VIP,62.26,28,3.67,No,29.98
+1324,2025-02-06,Central,KFC,VIP,39.19,47,4.49,No,19.37
+1325,2025-02-14,South,Pizza Hut,Returning,36.18,53,1.69,No,14.88
+1326,2025-04-14,West,Burger King,Returning,18.1,35,4.36,No,9.12
+1327,2025-03-30,East,Sushi Spot,VIP,50.03,38,2.14,No,21.64
+1328,2025-04-14,South,Local Diner,Returning,37.45,21,2.2,No,17.0
+1329,2025-03-10,West,Burger King,Returning,16.43,48,1.2,No,8.8
+1330,2025-04-15,East,Local Diner,Returning,21.08,22,1.13,No,9.56
+1331,2025-03-17,East,Subway,Returning,44.58,33,0.94,No,22.02
+1332,2025-05-09,Central,Burger King,Returning,28.24,44,0.82,No,13.37
+1333,2025-03-11,East,Sushi Spot,New,26.71,47,24.86,No,12.31
+1334,2025-05-15,East,Subway,Returning,40.84,37,1.01,No,15.98
+1335,2025-05-29,South,Pizza Hut,Returning,33.52,34,4.61,No,17.93
+1336,2025-03-20,North,Pizza Hut,New,21.57,26,11.58,No,10.32
+1337,2025-04-03,South,Subway,Returning,44.27,47,4.75,No,19.05
+1338,2025-03-31,East,McDonalds,VIP,60.1,38,3.41,No,26.4
+1339,2025-02-16,North,Subway,Returning,29.76,46,4.59,No,17.66
+1340,2025-05-31,North,KFC,New,24.0,41,21.47,No,14.21
+1341,2025-01-21,East,Local Diner,Returning,22.19,22,4.85,No,12.38
+1342,2025-03-06,East,Sushi Spot,Returning,33.95,53,1.72,No,15.56
+1343,2025-02-19,West,Local Diner,New,15.44,39,17.01,No,9.93
+1344,2025-01-09,South,Burger King,Returning,23.67,54,2.08,No,13.53
+1345,2025-02-02,Central,Local Diner,New,13.65,43,19.41,No,9.44
+1346,2025-03-28,West,Burger King,Returning,31.92,20,3.36,No,17.82
+1347,2025-04-29,Central,Local Diner,VIP,35.16,36,3.47,No,16.95
+1348,2025-05-16,East,Burger King,New,11.61,53,16.13,No,7.65
+1349,2025-03-06,North,Local Diner,Returning,37.93,26,3.89,No,19.1
+1350,2025-05-27,North,Sushi Spot,New,17.14,50,15.78,No,11.11
+1351,2025-04-01,North,Pizza Hut,Returning,38.65,24,1.55,No,16.73
+1352,2025-03-28,South,Burger King,Returning,43.12,55,4.45,No,21.45
+1353,2025-03-09,Central,Sushi Spot,New,14.23,21,24.92,No,8.39
+1354,2025-05-10,East,KFC,Returning,19.0,57,4.19,No,11.14
+1355,2025-03-29,Central,Pizza Hut,Returning,32.78,46,2.35,Yes,0
+1356,2025-02-15,North,Taco Bell,Returning,39.22,59,3.51,No,19.05
+1357,2025-05-19,Central,McDonalds,New,12.96,30,10.95,No,9.71
+1358,2025-04-19,East,Pizza Hut,Returning,18.41,52,0.56,No,12.43
+1359,2025-06-18,North,Taco Bell,Returning,26.14,57,4.07,No,10.79
+1360,2025-01-25,Central,Subway,New,23.97,39,14.74,No,13.68
+1361,2025-04-04,West,Burger King,Returning,39.17,38,1.51,No,15.56
+1362,2025-01-07,West,Burger King,New,11.88,60,21.42,No,7.72
+1363,2025-03-25,Central,McDonalds,Returning,20.93,22,2.72,No,10.45
+1364,2025-04-29,West,Sushi Spot,New,18.86,25,15.9,No,10.31
+1365,2025-05-17,South,KFC,Returning,23.66,60,1.86,No,11.69
+1366,2025-04-28,South,KFC,Returning,29.83,28,2.18,No,15.4
+1367,2025-03-08,North,KFC,Returning,41.87,47,3.53,No,22.39
+1368,2025-02-22,West,Taco Bell,Returning,42.7,60,0.85,No,15.71
+1369,2025-02-06,East,KFC,Returning,44.62,52,4.49,No,20.13
+1370,2025-01-07,North,KFC,Returning,39.89,53,4.87,No,18.94
+1371,2025-02-22,Central,Sushi Spot,New,11.67,20,21.63,Yes,0
+1372,2025-01-31,North,McDonalds,Returning,16.41,31,1.83,No,9.11
+1373,2025-06-22,West,Sushi Spot,VIP,50.81,22,3.56,No,21.6
+1374,2025-03-15,Central,Subway,Returning,37.84,52,0.48,No,20.19
+1375,2025-04-02,South,Local Diner,Returning,15.12,38,0.15,No,9.51
+1376,2025-04-15,North,KFC,Returning,29.72,35,4.18,No,15.75
+1377,2025-05-05,Central,Subway,VIP,72.62,31,0.66,No,32.09
+1378,2025-04-18,North,KFC,VIP,63.33,31,1.28,No,32.02
+1379,2025-05-18,North,McDonalds,Returning,28.25,24,4.36,No,15.73
+1380,2025-02-04,East,Local Diner,Returning,16.34,46,0.21,No,9.82
+1381,2025-04-09,West,McDonalds,Returning,40.34,20,0.35,No,21.31
+1382,2025-02-03,East,Pizza Hut,Returning,33.3,48,1.09,No,14.29
+1383,2025-01-09,South,Local Diner,Returning,33.16,46,3.84,No,14.22
+1384,2025-03-01,East,Subway,Returning,38.76,24,0.56,No,16.69
+1385,2025-01-07,South,Local Diner,Returning,23.46,48,1.59,No,13.14
+1386,2025-05-20,Central,KFC,New,19.66,57,15.66,No,12.3
+1387,2025-02-22,North,Local Diner,Returning,23.11,45,3.76,No,13.09
+1388,2025-04-02,West,Taco Bell,Returning,29.95,53,0.71,No,15.79
+1389,2025-02-23,South,KFC,Returning,29.99,29,2.7,No,12.63
+1390,2025-03-17,South,Subway,New,25.19,24,13.7,No,11.97
+1391,2025-04-16,South,Sushi Spot,Returning,42.41,54,3.6,No,18.72
+1392,2025-01-19,Central,Burger King,New,17.57,35,10.91,Yes,0
+1393,2025-01-05,West,Sushi Spot,Returning,17.58,41,3.41,No,11.06
+1394,2025-04-04,Central,Subway,Returning,32.16,59,3.06,No,12.8
+1395,2025-03-20,South,Subway,New,19.46,51,14.27,No,11.13
+1396,2025-05-31,South,Sushi Spot,Returning,24.46,53,0.29,No,12.05
+1397,2025-06-04,Central,Taco Bell,New,14.92,55,16.98,No,10.98
+1398,2025-02-27,South,Pizza Hut,Returning,33.41,22,3.68,No,14.59
+1399,2025-03-24,North,Local Diner,New,24.91,31,12.89,No,15.52
+1400,2025-03-01,North,McDonalds,Returning,23.32,56,3.46,No,14.08
+1401,2025-05-26,East,Local Diner,New,19.44,33,10.39,No,10.55
+1402,2025-04-12,South,Sushi Spot,New,26.26,34,20.11,No,15.98
+1403,2025-01-25,South,McDonalds,New,21.14,34,13.37,No,11.83
+1404,2025-01-13,South,Subway,Returning,30.2,29,1.49,No,12.48
+1405,2025-02-08,West,Taco Bell,Returning,18.44,50,2.45,No,10.85
+1406,2025-02-14,West,Sushi Spot,New,13.41,49,23.47,Yes,0
+1407,2025-03-28,Central,Local Diner,Returning,30.82,35,4.62,No,15.63
+1408,2025-01-25,North,McDonalds,Returning,17.1,29,4.92,No,9.04
+1409,2025-04-05,East,Sushi Spot,Returning,35.01,32,2.53,No,16.28
+1410,2025-05-09,Central,Subway,VIP,61.72,59,0.46,No,27.47
+1411,2025-05-23,North,KFC,Returning,22.68,50,3.91,No,12.01
+1412,2025-05-21,Central,Subway,Returning,24.0,60,2.84,No,12.7
+1413,2025-03-28,East,Sushi Spot,Returning,16.7,48,3.21,Yes,0
+1414,2025-03-28,Central,Subway,Returning,19.25,26,3.01,No,12.81
+1415,2025-05-28,South,McDonalds,VIP,57.15,40,1.19,No,25.63
+1416,2025-06-26,East,Taco Bell,Returning,36.74,30,0.07,No,20.73
+1417,2025-05-16,Central,Subway,Returning,39.43,23,0.74,No,16.85
+1418,2025-03-08,North,Pizza Hut,Returning,30.92,48,1.93,No,15.82
+1419,2025-02-14,East,McDonalds,Returning,18.74,52,0.15,No,10.55
+1420,2025-01-18,North,Subway,Returning,29.99,41,0.21,No,16.96
+1421,2025-01-22,South,Sushi Spot,New,21.5,42,21.08,No,9.71
+1422,2025-03-13,West,Burger King,VIP,79.33,58,2.96,No,39.18
+1423,2025-01-29,East,Sushi Spot,Returning,42.19,47,2.59,No,19.71
+1424,2025-01-15,Central,Sushi Spot,New,26.5,45,11.87,No,10.84
+1425,2025-04-03,Central,Burger King,New,25.32,37,22.86,No,14.71
+1426,2025-04-18,Central,Pizza Hut,Returning,33.48,39,1.2,No,14.11
+1427,2025-03-18,Central,KFC,Returning,32.25,53,1.76,No,15.46
+1428,2025-06-19,South,Burger King,New,10.36,38,10.47,No,7.83
+1429,2025-01-10,North,McDonalds,New,26.33,55,13.92,No,15.57
+1430,2025-03-08,North,KFC,New,20.71,59,14.7,No,11.8
+1431,2025-04-27,West,McDonalds,New,25.62,21,24.55,No,12.81
+1432,2025-03-01,East,Taco Bell,New,20.63,26,22.76,No,10.94
+1433,2025-04-02,North,McDonalds,Returning,24.76,30,3.45,No,13.09
+1434,2025-05-02,West,Taco Bell,New,16.54,20,16.23,No,9.5
+1435,2025-01-29,South,Taco Bell,VIP,52.67,33,2.95,No,21.38
+1436,2025-03-24,Central,Burger King,Returning,32.76,44,4.25,No,16.35
+1437,2025-04-03,Central,Local Diner,Returning,23.06,43,3.53,Yes,0
+1438,2025-06-15,West,Taco Bell,VIP,42.75,27,3.05,No,20.97
+1439,2025-04-21,West,Local Diner,Returning,23.87,41,0.79,Yes,0
+1440,2025-05-11,Central,Taco Bell,New,24.43,60,17.5,No,12.78
+1441,2025-02-28,North,Taco Bell,VIP,63.55,47,4.8,No,28.65
+1442,2025-02-16,Central,Pizza Hut,Returning,36.82,37,1.64,Yes,0
+1443,2025-02-06,South,Burger King,Returning,27.75,21,4.8,No,17.02
+1444,2025-01-07,Central,Local Diner,Returning,31.72,54,3.5,Yes,0
+1445,2025-05-20,West,Taco Bell,Returning,23.11,54,1.29,No,10.97
+1446,2025-02-09,North,Burger King,Returning,27.53,46,0.37,No,14.19
+1447,2025-06-19,North,KFC,New,29.39,39,22.16,No,14.04
+1448,2025-02-04,East,McDonalds,Returning,26.06,58,2.39,No,12.35
+1449,2025-06-05,Central,Subway,New,27.77,48,21.24,No,12.77
+1450,2025-03-03,South,Local Diner,Returning,38.83,55,1.11,No,16.15
+1451,2025-02-08,West,KFC,VIP,47.6,43,2.11,No,19.53
+1452,2025-01-08,Central,McDonalds,VIP,67.54,50,1.74,No,26.74
+1453,2025-04-20,Central,Subway,New,24.94,41,20.47,No,14.29
+1454,2025-05-23,South,KFC,New,16.18,35,15.85,No,8.97
+1455,2025-06-30,South,Pizza Hut,VIP,52.42,58,4.5,No,22.78
+1456,2025-06-08,South,Pizza Hut,Returning,38.28,53,2.38,No,21.37
+1457,2025-06-12,West,Pizza Hut,Returning,26.55,57,4.43,No,12.86
+1458,2025-04-20,East,Taco Bell,Returning,25.61,35,4.04,No,12.65
+1459,2025-01-14,Central,Burger King,New,13.62,20,24.23,No,7.87
+1460,2025-06-20,West,Taco Bell,Returning,26.08,20,4.26,No,14.6
+1461,2025-03-11,East,Burger King,Returning,40.71,50,3.83,No,16.42
+1462,2025-02-23,North,Sushi Spot,Returning,30.57,56,2.16,No,16.41
+1463,2025-04-16,Central,KFC,New,29.62,20,22.23,No,15.72
+1464,2025-04-30,North,KFC,New,22.92,43,16.55,No,11.6
+1465,2025-05-31,North,Burger King,Returning,44.53,25,3.43,No,21.24
+1466,2025-02-08,North,KFC,New,27.87,44,19.6,No,15.54
+1467,2025-04-11,East,Taco Bell,Returning,24.59,23,1.54,Yes,0
+1468,2025-06-08,East,Taco Bell,Returning,29.33,31,4.48,No,14.98
+1469,2025-06-19,North,Pizza Hut,Returning,42.75,48,1.87,No,21.76
+1470,2025-02-19,North,Sushi Spot,New,26.57,21,11.42,No,14.98
+1471,2025-03-17,North,Sushi Spot,Returning,37.11,54,0.45,No,16.72
+1472,2025-02-04,West,Subway,New,11.06,38,10.8,No,7.44
+1473,2025-04-19,East,KFC,Returning,30.68,27,0.89,No,14.48
+1474,2025-06-28,North,KFC,Returning,34.99,40,4.42,No,15.98
+1475,2025-05-19,South,Sushi Spot,Returning,22.17,59,3.89,No,10.03
+1476,2025-03-23,Central,Burger King,New,13.39,34,13.99,No,7.58
+1477,2025-06-05,West,Taco Bell,New,29.11,37,21.57,No,15.92
+1478,2025-04-06,West,KFC,Returning,28.48,23,4.2,No,12.49
+1479,2025-05-02,East,Sushi Spot,Returning,36.1,56,3.63,No,14.57
+1480,2025-01-15,Central,Local Diner,VIP,70.0,26,0.19,No,28.83
+1481,2025-05-31,Central,Sushi Spot,New,14.54,28,15.39,No,6.55
+1482,2025-03-26,Central,Sushi Spot,Returning,22.93,57,2.47,No,11.07
+1483,2025-04-29,West,Sushi Spot,New,10.91,25,24.69,No,7.63
+1484,2025-05-10,South,Taco Bell,New,20.8,26,18.84,No,11.89
+1485,2025-01-29,Central,McDonalds,Returning,37.59,55,3.71,Yes,0
+1486,2025-01-18,Central,McDonalds,Returning,36.75,60,3.36,No,16.4
+1487,2025-02-11,North,Local Diner,New,11.39,51,15.91,No,6.04
+1488,2025-04-06,West,KFC,Returning,15.02,23,0.21,No,7.61
+1489,2025-02-11,West,Sushi Spot,Returning,44.57,39,4.35,No,19.28
+1490,2025-03-26,East,Taco Bell,Returning,31.28,37,0.64,No,15.53
+1491,2025-06-07,East,Subway,Returning,19.08,20,0.3,No,11.33
+1492,2025-03-20,South,KFC,New,25.93,32,19.2,No,11.81
+1493,2025-05-23,East,Pizza Hut,Returning,44.29,23,3.71,No,18.8
+1494,2025-06-27,East,McDonalds,Returning,26.35,54,1.93,No,11.03
+1495,2025-04-16,North,Taco Bell,New,16.13,29,18.81,No,9.45
+1496,2025-02-23,West,KFC,New,10.79,55,22.68,No,7.93
+1497,2025-03-17,East,Subway,Returning,21.25,49,0.85,No,12.67
+1498,2025-05-04,South,Local Diner,Returning,41.16,48,0.46,No,20.67
+1499,2025-01-17,Central,Sushi Spot,New,20.76,21,24.84,No,12.9
+1500,2025-04-20,Central,Sushi Spot,Returning,34.48,36,1.05,No,16.78
+1501,2025-05-24,Central,Local Diner,New,23.02,51,23.43,No,13.41
+1502,2025-03-25,Central,Burger King,Returning,31.94,28,3.08,No,15.4
+1503,2025-04-27,South,KFC,New,11.0,51,23.83,No,8.37
+1504,2025-06-18,Central,Pizza Hut,Returning,24.48,29,0.2,No,11.71
+1505,2025-04-08,East,McDonalds,VIP,60.7,31,3.34,No,21.68
+1506,2025-04-09,North,KFC,New,17.6,52,10.32,No,9.58
+1507,2025-05-28,East,Taco Bell,Returning,27.97,55,4.91,No,11.65
+1508,2025-05-11,West,Sushi Spot,Returning,18.66,57,1.45,No,11.82
+1509,2025-06-05,South,Local Diner,New,21.96,56,21.71,No,14.11
+1510,2025-03-03,South,Burger King,Returning,31.05,31,1.81,No,16.65
+1511,2025-06-03,North,Taco Bell,VIP,76.74,24,3.31,Yes,0
+1512,2025-04-10,North,Sushi Spot,New,21.64,50,18.59,No,12.04
+1513,2025-05-29,South,Pizza Hut,Returning,17.56,24,2.3,No,8.52
+1514,2025-01-02,East,Local Diner,New,12.6,42,11.28,No,7.11
+1515,2025-01-27,East,KFC,Returning,18.9,48,0.9,No,13.04
+1516,2025-04-23,North,Burger King,Returning,25.35,43,3.83,No,10.88
+1517,2025-05-01,Central,Local Diner,Returning,38.4,47,4.21,No,19.06
+1518,2025-04-16,Central,Local Diner,New,18.72,59,11.64,No,11.04
+1519,2025-05-18,East,Subway,Returning,24.62,27,0.01,No,14.01
+1520,2025-01-07,East,Taco Bell,New,26.61,54,19.31,No,13.42
+1521,2025-04-09,Central,Pizza Hut,VIP,60.27,21,3.82,Yes,0
+1522,2025-04-08,West,Pizza Hut,Returning,23.95,39,3.15,No,14.74
+1523,2025-01-22,North,Sushi Spot,New,21.59,45,15.93,No,9.76
+1524,2025-05-18,South,KFC,New,27.72,49,17.93,No,15.24
+1525,2025-01-21,North,KFC,New,25.19,42,12.3,Yes,0
+1526,2025-01-28,North,KFC,Returning,40.08,59,1.51,No,19.8
+1527,2025-02-21,East,Local Diner,Returning,21.54,33,0.63,No,11.52
+1528,2025-04-13,Central,Local Diner,New,16.07,23,22.59,No,10.04
+1529,2025-03-17,South,Burger King,New,27.79,34,10.54,No,13.37
+1530,2025-03-13,North,Taco Bell,Returning,37.57,27,2.86,No,18.11
+1531,2025-03-28,East,Burger King,New,28.53,57,10.68,No,14.13
+1532,2025-04-20,Central,Burger King,Returning,29.26,55,0.78,No,13.85
+1533,2025-06-03,East,Local Diner,Returning,25.7,20,4.75,No,14.35
+1534,2025-04-28,West,KFC,Returning,27.56,31,4.08,No,14.25
+1535,2025-05-30,East,Burger King,New,22.16,53,22.3,No,10.92
+1536,2025-03-31,Central,Sushi Spot,Returning,44.02,47,1.07,Yes,0
+1537,2025-05-05,East,Pizza Hut,Returning,31.2,25,1.13,No,13.98
+1538,2025-02-23,Central,Subway,VIP,68.25,27,3.91,Yes,0
+1539,2025-04-24,East,Taco Bell,New,25.86,53,19.76,No,14.46
+1540,2025-05-31,South,Burger King,VIP,41.04,45,2.28,No,16.18
+1541,2025-01-27,East,Subway,Returning,18.39,26,4.93,No,9.48
+1542,2025-01-31,Central,Pizza Hut,New,21.74,57,14.52,No,13.69
+1543,2025-01-17,South,Subway,Returning,37.06,28,2.28,No,15.88
+1544,2025-04-21,South,Sushi Spot,Returning,31.51,58,4.4,No,15.29
+1545,2025-03-31,South,Subway,Returning,34.71,53,2.07,Yes,0
+1546,2025-01-25,North,McDonalds,Returning,26.35,50,3.45,No,10.91
+1547,2025-06-11,Central,Burger King,New,12.14,44,17.15,No,8.91
+1548,2025-01-16,South,Local Diner,Returning,42.13,49,0.05,No,17.35
+1549,2025-05-16,North,Subway,Returning,34.28,39,0.07,No,15.96
+1550,2025-05-19,West,Sushi Spot,Returning,25.95,47,0.84,No,16.04
+1551,2025-05-24,East,Subway,Returning,25.93,54,2.77,No,13.11
+1552,2025-05-01,East,McDonalds,Returning,23.66,33,3.37,No,10.64
+1553,2025-04-24,West,Burger King,Returning,22.63,31,4.46,No,13.08
+1554,2025-01-12,North,Pizza Hut,Returning,33.73,59,2.29,No,14.75
+1555,2025-03-20,North,Sushi Spot,Returning,29.98,27,2.99,No,15.22
+1556,2025-02-07,South,Local Diner,New,18.07,51,20.69,No,9.86
+1557,2025-06-28,West,Taco Bell,New,22.19,35,14.76,No,10.77
+1558,2025-03-28,South,McDonalds,Returning,21.4,24,1.44,No,12.69
+1559,2025-01-30,North,Sushi Spot,New,20.85,48,24.26,No,10.14
+1560,2025-05-23,North,Pizza Hut,VIP,68.84,36,0.57,No,32.45
+1561,2025-04-28,Central,McDonalds,Returning,38.27,45,1.65,No,14.35
+1562,2025-05-31,South,Pizza Hut,Returning,43.73,34,1.27,No,19.82
+1563,2025-05-13,West,Subway,Returning,42.43,30,1.55,Yes,0
+1564,2025-01-10,East,KFC,Returning,20.8,35,4.52,No,9.33
+1565,2025-01-08,North,Taco Bell,New,25.62,60,17.78,No,12.71
+1566,2025-03-17,West,Subway,Returning,31.73,60,4.3,No,16.24
+1567,2025-04-23,Central,Subway,New,28.83,32,14.22,No,14.24
+1568,2025-02-08,South,Subway,New,10.87,45,22.03,No,7.08
+1569,2025-06-16,Central,KFC,New,15.15,21,17.32,No,7.67
+1570,2025-04-27,South,Pizza Hut,New,13.65,27,13.69,No,10.6
+1571,2025-03-10,West,Subway,VIP,43.83,23,4.87,No,19.3
+1572,2025-04-22,North,KFC,New,26.13,54,14.98,No,13.51
+1573,2025-05-10,South,Burger King,Returning,16.38,45,2.54,No,9.29
+1574,2025-01-09,Central,Taco Bell,New,19.91,34,11.54,No,11.96
+1575,2025-03-15,East,KFC,Returning,17.87,53,0.52,No,10.28
+1576,2025-04-27,North,KFC,New,15.29,47,13.0,Yes,0
+1577,2025-05-05,South,Burger King,New,14.42,57,20.37,No,7.27
+1578,2025-02-24,North,McDonalds,New,11.38,46,20.42,No,6.98
+1579,2025-02-02,East,Subway,VIP,66.61,23,3.0,Yes,0
+1580,2025-02-17,West,Subway,New,27.8,46,16.73,No,13.14
+1581,2025-04-14,South,Burger King,Returning,19.47,36,4.9,No,10.68
+1582,2025-03-23,East,Subway,New,21.27,22,24.36,No,12.4
+1583,2025-05-13,North,Local Diner,New,19.73,51,16.8,No,11.96
+1584,2025-01-20,West,Pizza Hut,Returning,21.86,40,0.83,No,10.51
+1585,2025-01-30,Central,Pizza Hut,Returning,26.78,42,0.45,No,14.22
+1586,2025-06-18,West,Sushi Spot,Returning,38.4,57,4.95,No,15.82
+1587,2025-06-22,Central,Local Diner,Returning,44.79,37,1.15,No,20.57
+1588,2025-04-01,West,Burger King,New,24.72,57,21.49,No,13.66
+1589,2025-02-11,South,Subway,New,22.23,53,17.86,Yes,0
+1590,2025-01-23,South,KFC,Returning,30.19,37,4.32,No,12.93
+1591,2025-03-09,North,Pizza Hut,New,11.7,21,12.53,No,8.78
+1592,2025-03-07,Central,Local Diner,Returning,25.86,33,0.88,No,11.65
+1593,2025-02-14,East,KFC,New,16.82,21,20.74,No,11.75
+1594,2025-02-27,North,Local Diner,Returning,43.4,31,2.87,No,21.76
+1595,2025-05-30,West,KFC,New,11.02,22,12.41,No,8.52
+1596,2025-06-16,North,Subway,Returning,35.11,21,0.44,No,19.12
+1597,2025-03-08,North,McDonalds,New,10.11,46,18.08,No,7.47
+1598,2025-03-10,Central,KFC,Returning,44.42,44,3.72,No,20.69
+1599,2025-04-05,West,Sushi Spot,Returning,19.1,22,3.97,No,11.06
+1600,2025-02-08,East,Subway,Returning,18.86,34,2.68,No,11.31
+1601,2025-06-15,South,Local Diner,Returning,31.86,24,0.52,No,13.46
+1602,2025-05-29,West,Local Diner,Returning,38.13,56,3.34,No,18.77
+1603,2025-05-17,South,Pizza Hut,VIP,59.9,23,3.15,No,29.21
+1604,2025-05-21,North,Taco Bell,Returning,25.97,49,1.47,No,13.46
+1605,2025-04-17,Central,Sushi Spot,New,12.41,45,23.82,No,8.05
+1606,2025-04-26,North,Subway,Returning,29.07,47,3.1,Yes,0
+1607,2025-05-28,South,Sushi Spot,VIP,38.72,24,2.65,No,17.86
+1608,2025-05-11,East,Subway,Returning,30.29,41,0.96,No,15.31
+1609,2025-03-15,Central,Taco Bell,VIP,41.89,27,0.67,Yes,0
+1610,2025-06-06,West,Local Diner,New,23.83,57,11.4,No,11.72
+1611,2025-02-01,East,McDonalds,VIP,68.86,47,1.97,No,28.76
+1612,2025-02-15,East,Taco Bell,Returning,19.02,49,4.01,No,10.38
+1613,2025-01-07,East,Subway,VIP,62.32,36,2.57,No,23.37
+1614,2025-05-04,North,Burger King,Returning,43.23,58,1.87,No,18.69
+1615,2025-05-27,North,KFC,Returning,28.6,26,3.74,No,11.94
+1616,2025-06-04,West,Taco Bell,New,17.65,51,21.49,No,10.35
+1617,2025-01-20,South,Subway,Returning,40.79,51,3.31,No,20.8
+1618,2025-04-06,West,Burger King,Returning,34.67,42,1.66,No,17.05
+1619,2025-01-03,West,Taco Bell,New,12.03,33,17.61,No,9.57
+1620,2025-03-15,East,McDonalds,Returning,30.1,22,1.58,No,17.79
+1621,2025-06-07,South,Pizza Hut,New,26.38,33,11.49,No,11.83
+1622,2025-03-10,West,KFC,Returning,31.74,35,2.12,No,16.24
+1623,2025-03-20,Central,Subway,VIP,57.21,59,3.4,No,25.17
+1624,2025-02-07,West,Pizza Hut,Returning,25.69,20,3.77,No,12.91
+1625,2025-03-15,North,Burger King,New,10.19,60,22.46,No,7.63
+1626,2025-04-06,South,KFC,Returning,25.96,50,1.56,No,12.25
+1627,2025-05-13,South,Local Diner,Returning,29.25,40,1.02,No,14.29
+1628,2025-03-09,Central,Burger King,New,29.47,60,23.64,No,13.9
+1629,2025-02-24,North,Subway,Returning,23.53,46,3.86,No,11.9
+1630,2025-04-11,South,McDonalds,Returning,38.45,50,3.33,No,16.49
+1631,2025-06-25,South,Sushi Spot,New,10.33,43,20.37,No,9.24
+1632,2025-03-29,South,McDonalds,New,11.42,40,18.93,No,6.76
+1633,2025-03-20,East,Subway,Returning,29.53,24,4.04,Yes,0
+1634,2025-01-02,Central,Local Diner,Returning,28.94,45,4.6,No,16.53
+1635,2025-03-21,South,Local Diner,New,22.54,59,19.84,No,11.56
+1636,2025-02-25,North,Burger King,Returning,15.28,47,1.11,No,6.94
+1637,2025-05-16,South,Burger King,New,17.5,60,23.71,No,10.91
+1638,2025-05-10,West,Burger King,Returning,44.2,27,0.91,No,17.16
+1639,2025-03-13,West,McDonalds,Returning,40.82,22,3.17,No,19.78
+1640,2025-06-03,North,Sushi Spot,Returning,17.35,22,4.8,No,12.02
+1641,2025-03-21,Central,Local Diner,Returning,42.57,31,4.87,No,17.32
+1642,2025-01-21,Central,KFC,New,10.25,31,21.61,No,7.98
+1643,2025-06-02,West,Taco Bell,VIP,54.56,28,1.21,No,22.96
+1644,2025-03-23,Central,Burger King,Returning,19.36,30,0.48,No,10.24
+1645,2025-06-06,Central,Burger King,Returning,41.27,20,4.31,No,17.93
+1646,2025-05-21,East,Sushi Spot,Returning,43.39,32,0.95,No,22.4
+1647,2025-04-26,North,Pizza Hut,VIP,67.75,54,0.07,No,26.82
+1648,2025-01-04,West,Sushi Spot,New,11.04,34,14.73,No,6.83
+1649,2025-06-16,North,Taco Bell,Returning,21.42,30,3.18,No,10.2
+1650,2025-03-19,West,Sushi Spot,VIP,38.81,41,3.82,No,18.86
+1651,2025-02-17,North,McDonalds,Returning,30.87,47,1.81,No,18.22
+1652,2025-02-24,East,Local Diner,Returning,33.85,40,4.33,No,14.76
+1653,2025-01-04,North,Burger King,Returning,15.63,45,1.64,No,9.28
+1654,2025-03-22,West,Taco Bell,New,13.51,47,12.07,No,10.59
+1655,2025-05-24,Central,Subway,VIP,58.48,26,0.31,No,24.7
+1656,2025-05-31,South,Burger King,New,14.32,45,11.61,No,7.69
+1657,2025-05-11,Central,McDonalds,Returning,35.43,33,2.33,No,17.89
+1658,2025-03-15,Central,Subway,Returning,38.11,33,1.52,No,15.86
+1659,2025-05-23,Central,KFC,Returning,29.82,24,1.01,Yes,0
+1660,2025-01-24,Central,Sushi Spot,VIP,69.57,49,0.61,No,34.41
+1661,2025-05-16,North,Sushi Spot,Returning,40.82,47,4.58,No,18.58
+1662,2025-05-10,West,KFC,Returning,36.46,29,0.53,No,17.19
+1663,2025-02-28,East,KFC,Returning,34.5,44,2.25,No,15.56
+1664,2025-04-12,Central,Taco Bell,Returning,24.42,36,3.84,No,13.97
+1665,2025-01-09,Central,Burger King,New,12.57,42,16.8,Yes,0
+1666,2025-04-11,North,Sushi Spot,VIP,44.54,34,4.81,No,21.73
+1667,2025-03-24,East,Sushi Spot,Returning,17.68,30,2.14,No,9.24
+1668,2025-04-25,Central,Sushi Spot,Returning,36.37,53,3.16,No,19.25
+1669,2025-04-08,Central,Taco Bell,Returning,15.38,39,1.47,No,10.42
+1670,2025-06-11,North,Local Diner,VIP,40.82,54,4.93,No,19.53
+1671,2025-01-02,Central,Taco Bell,Returning,34.25,25,1.39,No,13.63
+1672,2025-02-22,West,McDonalds,New,26.45,46,12.38,No,14.22
+1673,2025-05-21,North,KFC,Returning,44.46,26,1.27,No,18.74
+1674,2025-05-27,West,Sushi Spot,Returning,18.42,57,3.66,No,13.01
+1675,2025-04-19,West,Pizza Hut,Returning,44.62,39,1.93,No,18.08
+1676,2025-06-25,West,Taco Bell,Returning,32.36,58,0.24,No,16.8
+1677,2025-04-16,South,KFC,New,24.48,59,22.45,No,12.23
+1678,2025-03-13,North,Subway,Returning,22.01,37,0.02,No,12.23
+1679,2025-06-17,East,Burger King,Returning,31.66,44,1.51,No,15.04
+1680,2025-06-18,North,Burger King,Returning,35.63,56,2.62,No,17.39
+1681,2025-02-20,South,Pizza Hut,Returning,28.33,32,3.95,No,13.64
+1682,2025-01-19,West,Pizza Hut,Returning,22.19,27,3.29,No,13.14
+1683,2025-04-22,East,Sushi Spot,Returning,42.5,58,0.2,No,22.38
+1684,2025-05-29,Central,KFC,Returning,36.14,40,2.32,No,14.41
+1685,2025-03-05,North,Local Diner,VIP,46.97,56,4.29,No,20.24
+1686,2025-06-05,West,Taco Bell,New,28.67,22,11.96,No,16.05
+1687,2025-06-27,Central,Burger King,New,23.65,24,11.73,No,11.43
+1688,2025-06-23,South,Sushi Spot,Returning,23.53,60,2.19,No,14.86
+1689,2025-06-14,South,Local Diner,Returning,22.43,59,1.09,No,10.21
+1690,2025-03-08,North,Local Diner,Returning,21.37,31,2.19,No,10.06
+1691,2025-03-24,South,KFC,Returning,17.02,48,4.67,No,8.0
+1692,2025-03-22,South,Pizza Hut,Returning,20.02,31,0.51,No,11.26
+1693,2025-02-12,West,Subway,Returning,35.51,45,2.68,No,19.29
+1694,2025-06-13,South,KFC,Returning,23.54,59,2.74,No,13.32
+1695,2025-02-13,South,Subway,New,26.57,28,13.57,Yes,0
+1696,2025-06-21,North,Subway,Returning,28.71,33,3.41,No,14.73
+1697,2025-04-21,West,Taco Bell,Returning,17.09,57,1.54,No,9.14
+1698,2025-04-01,West,Burger King,New,21.1,22,12.95,No,11.09
+1699,2025-03-01,South,Sushi Spot,Returning,37.06,36,1.85,No,19.67
+1700,2025-01-17,East,Sushi Spot,Returning,17.05,53,4.52,No,9.51
+1701,2025-03-16,East,Subway,Returning,28.39,60,1.57,No,14.62
+1702,2025-05-15,West,Local Diner,VIP,42.73,27,4.57,No,23.52
+1703,2025-02-25,Central,Taco Bell,Returning,34.59,32,3.98,No,17.81
+1704,2025-06-14,Central,Local Diner,New,25.66,43,17.65,No,14.81
+1705,2025-05-23,West,KFC,Returning,35.34,51,4.14,No,14.7
+1706,2025-01-14,West,Burger King,Returning,19.61,37,1.23,No,11.21
+1707,2025-03-26,West,McDonalds,VIP,41.3,49,3.01,No,17.75
+1708,2025-02-24,Central,Sushi Spot,Returning,20.11,59,1.78,No,10.39
+1709,2025-06-12,West,McDonalds,New,21.29,29,24.78,No,12.14
+1710,2025-03-29,East,Pizza Hut,Returning,28.36,28,2.54,No,16.03
+1711,2025-04-25,East,Local Diner,Returning,37.87,42,4.06,No,13.99
+1712,2025-02-09,East,McDonalds,Returning,26.39,25,2.41,No,12.06
+1713,2025-03-01,South,Local Diner,New,19.63,25,23.85,No,11.15
+1714,2025-01-24,West,Taco Bell,VIP,51.82,58,2.85,No,25.64
+1715,2025-06-26,Central,Burger King,Returning,16.27,60,2.5,Yes,0
+1716,2025-04-17,Central,Local Diner,New,29.84,37,19.6,Yes,0
+1717,2025-03-06,North,Subway,Returning,42.29,50,3.78,No,18.39
+1718,2025-03-09,East,Burger King,VIP,42.25,57,3.76,No,18.43
+1719,2025-04-14,Central,Subway,New,15.53,29,13.42,No,9.54
+1720,2025-04-04,West,Pizza Hut,Returning,20.27,42,1.51,No,11.01
+1721,2025-01-07,North,Taco Bell,New,25.96,20,20.09,No,11.47
+1722,2025-01-10,Central,Sushi Spot,Returning,39.44,49,2.1,No,17.56
+1723,2025-03-03,North,Subway,Returning,39.3,59,2.07,Yes,0
+1724,2025-01-08,West,Pizza Hut,Returning,24.99,51,1.08,Yes,0
+1725,2025-05-29,South,Taco Bell,Returning,40.87,21,4.04,No,21.03
+1726,2025-01-23,West,Local Diner,Returning,36.21,47,3.68,No,16.8
+1727,2025-03-28,East,McDonalds,Returning,31.23,59,4.54,No,17.15
+1728,2025-03-20,East,Pizza Hut,Returning,29.14,30,0.07,No,11.6
+1729,2025-06-14,West,Local Diner,New,10.98,30,17.05,No,6.65
+1730,2025-05-07,North,Subway,VIP,68.59,36,0.65,Yes,0
+1731,2025-01-06,North,KFC,New,26.5,52,21.9,No,12.95
+1732,2025-01-08,Central,KFC,New,27.36,29,22.41,No,15.28
+1733,2025-05-01,East,KFC,Returning,34.8,30,0.62,No,16.57
+1734,2025-06-03,Central,KFC,Returning,37.14,59,0.81,No,19.02
+1735,2025-04-02,Central,McDonalds,Returning,44.47,39,4.47,No,18.92
+1736,2025-01-14,West,Burger King,Returning,24.37,28,2.93,No,9.97
+1737,2025-05-19,South,Taco Bell,New,20.35,54,23.66,Yes,0
+1738,2025-05-26,North,McDonalds,New,16.12,34,12.76,No,9.8
+1739,2025-06-07,West,Taco Bell,VIP,61.8,23,3.04,No,27.69
+1740,2025-05-12,East,Subway,New,27.87,26,12.98,No,12.55
+1741,2025-05-29,East,Taco Bell,New,15.65,50,20.06,No,8.05
+1742,2025-04-27,West,KFC,Returning,35.63,22,3.88,No,16.67
+1743,2025-01-24,Central,McDonalds,Returning,29.75,53,4.76,No,15.37
+1744,2025-03-12,East,McDonalds,New,25.36,54,16.09,No,13.67
+1745,2025-03-10,North,Sushi Spot,Returning,17.06,60,1.28,No,10.23
+1746,2025-02-01,South,Pizza Hut,Returning,17.27,49,4.79,No,7.88
+1747,2025-02-08,North,KFC,Returning,40.04,48,1.84,No,20.44
+1748,2025-04-02,Central,McDonalds,Returning,26.11,38,3.56,No,13.67
+1749,2025-02-24,North,Sushi Spot,New,23.23,26,14.25,Yes,0
+1750,2025-04-11,West,Pizza Hut,Returning,24.13,49,4.75,No,14.41
+1751,2025-03-15,Central,Subway,Returning,35.86,49,4.72,No,15.67
+1752,2025-01-28,South,Sushi Spot,New,22.05,51,13.96,No,11.35
+1753,2025-04-19,West,KFC,VIP,58.74,33,0.49,No,23.12
+1754,2025-01-08,East,Burger King,Returning,18.5,60,3.65,No,13.05
+1755,2025-03-09,North,Taco Bell,Returning,26.58,53,0.49,No,13.21
+1756,2025-03-11,Central,Sushi Spot,New,22.18,20,24.7,No,10.18
+1757,2025-02-22,Central,Local Diner,Returning,32.86,41,2.95,Yes,0
+1758,2025-05-23,South,Sushi Spot,New,11.23,51,14.58,No,8.66
+1759,2025-06-01,Central,Pizza Hut,New,14.33,24,24.41,No,9.35
+1760,2025-04-13,North,KFC,New,19.57,52,17.0,No,12.07
+1761,2025-05-16,Central,McDonalds,Returning,30.58,59,3.72,No,15.0
+1762,2025-05-28,Central,Pizza Hut,Returning,32.52,42,0.71,No,14.42
+1763,2025-03-23,North,McDonalds,Returning,41.53,57,4.72,No,19.08
+1764,2025-05-10,West,Taco Bell,VIP,54.15,24,3.78,No,25.62
+1765,2025-02-20,North,Subway,New,15.24,30,23.51,No,9.34
+1766,2025-06-07,Central,Local Diner,Returning,30.24,39,3.74,No,14.67
+1767,2025-05-03,South,Local Diner,New,24.27,35,20.41,No,11.29
+1768,2025-04-14,East,Local Diner,New,17.47,35,16.06,No,8.53
+1769,2025-01-04,East,Sushi Spot,Returning,25.43,47,1.86,No,13.16
+1770,2025-06-30,West,Subway,Returning,30.14,23,2.5,No,16.0
+1771,2025-05-18,Central,Taco Bell,VIP,45.42,32,0.74,No,22.83
+1772,2025-02-15,Central,Local Diner,Returning,31.96,33,2.24,No,15.22
+1773,2025-06-26,North,McDonalds,VIP,76.74,60,2.24,No,32.72
+1774,2025-03-07,North,Local Diner,Returning,40.06,55,2.06,No,18.78
+1775,2025-05-07,South,Burger King,Returning,15.58,43,2.87,No,9.77
+1776,2025-03-24,Central,McDonalds,Returning,39.08,54,1.06,No,18.5
+1777,2025-03-07,West,Subway,Returning,27.84,31,1.59,No,14.54
+1778,2025-02-03,South,Pizza Hut,Returning,40.09,25,2.6,No,21.19
+1779,2025-02-13,Central,McDonalds,Returning,31.37,29,2.06,No,17.27
+1780,2025-05-08,South,Taco Bell,Returning,42.35,57,4.94,No,18.41
+1781,2025-03-24,East,Sushi Spot,Returning,18.9,44,2.62,No,11.26
+1782,2025-05-02,Central,Sushi Spot,New,20.67,40,13.06,No,12.56
+1783,2025-01-07,East,Sushi Spot,Returning,21.28,53,0.33,No,12.84
+1784,2025-06-26,East,KFC,Returning,36.09,26,4.82,No,19.01
+1785,2025-06-04,West,Burger King,VIP,40.47,35,2.04,No,18.15
+1786,2025-05-06,North,Pizza Hut,Returning,15.71,26,4.78,No,9.24
+1787,2025-06-13,South,McDonalds,Returning,24.31,25,0.49,No,11.71
+1788,2025-03-29,Central,Burger King,New,20.39,36,14.95,No,10.01
+1789,2025-03-10,East,Local Diner,Returning,27.05,53,4.84,No,15.97
+1790,2025-05-07,East,KFC,Returning,41.86,26,0.55,No,17.98
+1791,2025-05-09,West,Pizza Hut,Returning,43.12,54,0.21,No,23.38
+1792,2025-04-22,South,Sushi Spot,Returning,39.35,52,1.63,No,20.14
+1793,2025-01-29,West,Burger King,New,18.49,25,20.65,No,12.44
+1794,2025-02-13,West,McDonalds,Returning,42.47,43,2.0,No,21.58
+1795,2025-05-11,South,McDonalds,Returning,16.0,22,2.59,No,8.88
+1796,2025-02-21,South,KFC,New,23.02,54,19.32,No,12.95
+1797,2025-06-18,South,KFC,New,13.1,24,20.07,No,8.58
+1798,2025-05-15,West,Local Diner,Returning,41.36,29,2.95,No,17.71
+1799,2025-01-22,Central,Sushi Spot,Returning,29.49,32,1.5,No,16.09
+1800,2025-03-30,East,Subway,Returning,28.2,38,0.93,No,12.6
+1801,2025-06-28,South,Local Diner,VIP,43.31,45,2.43,No,16.52
+1802,2025-03-04,Central,Pizza Hut,New,26.77,60,20.8,No,12.24
+1803,2025-06-06,West,Pizza Hut,Returning,17.16,26,4.72,No,9.93
+1804,2025-03-30,Central,Burger King,New,13.37,53,21.29,No,8.26
+1805,2025-03-30,South,Pizza Hut,Returning,15.18,24,0.23,No,8.08
+1806,2025-04-20,South,Sushi Spot,Returning,44.65,32,2.63,No,22.64
+1807,2025-02-18,West,Taco Bell,VIP,66.71,58,1.24,No,31.69
+1808,2025-06-14,Central,Sushi Spot,Returning,22.97,47,1.82,No,11.51
+1809,2025-04-09,Central,Subway,Returning,32.09,28,1.64,No,13.81
+1810,2025-02-16,North,McDonalds,Returning,41.67,51,0.18,No,18.85
+1811,2025-01-22,South,Burger King,Returning,19.14,41,2.1,No,11.74
+1812,2025-06-19,South,Subway,Returning,15.56,23,4.65,No,10.16
+1813,2025-06-23,East,Local Diner,Returning,40.25,21,0.2,No,19.15
+1814,2025-03-28,North,Sushi Spot,Returning,36.03,52,1.31,No,17.65
+1815,2025-03-09,West,Taco Bell,New,27.78,53,23.43,No,12.76
+1816,2025-04-16,West,Taco Bell,Returning,23.49,38,0.9,No,11.81
+1817,2025-02-16,North,Pizza Hut,New,12.33,20,13.52,No,9.73
+1818,2025-02-04,East,Burger King,Returning,31.8,54,3.57,No,13.08
+1819,2025-04-19,East,Pizza Hut,Returning,33.94,41,3.44,No,14.23
+1820,2025-05-24,East,Local Diner,Returning,43.57,55,3.22,No,17.29
+1821,2025-06-07,Central,Local Diner,New,21.96,40,10.55,No,10.96
+1822,2025-05-22,Central,McDonalds,Returning,35.02,28,2.83,No,19.45
+1823,2025-06-27,East,Pizza Hut,Returning,34.78,40,4.73,No,18.06
+1824,2025-03-17,West,Sushi Spot,Returning,17.05,21,1.7,No,10.22
+1825,2025-03-04,West,Pizza Hut,New,21.21,56,11.0,No,14.04
+1826,2025-06-19,East,McDonalds,Returning,43.16,22,4.75,No,19.25
+1827,2025-03-05,Central,Pizza Hut,Returning,37.83,51,3.18,No,18.64
+1828,2025-02-28,North,Local Diner,New,28.2,46,22.09,No,14.72
+1829,2025-04-22,Central,KFC,Returning,39.34,46,0.8,No,17.05
+1830,2025-01-06,West,Subway,Returning,38.09,59,1.42,No,16.71
+1831,2025-01-19,Central,Burger King,Returning,42.86,57,4.72,No,17.23
+1832,2025-06-14,Central,KFC,Returning,33.26,55,1.83,No,18.06
+1833,2025-03-17,West,Subway,Returning,23.8,57,3.05,No,11.86
+1834,2025-03-20,North,Taco Bell,New,21.25,48,23.65,No,11.11
+1835,2025-03-19,North,Subway,Returning,40.26,39,3.67,No,15.65
+1836,2025-05-19,West,Burger King,New,17.76,32,16.86,No,9.26
+1837,2025-02-01,West,McDonalds,Returning,33.48,28,1.17,No,16.45
+1838,2025-02-03,Central,Burger King,Returning,40.01,56,2.71,No,22.43
+1839,2025-04-06,South,McDonalds,Returning,44.16,57,4.83,No,15.71
+1840,2025-04-29,North,Burger King,Returning,19.57,42,1.17,No,11.62
+1841,2025-05-12,South,Burger King,New,15.62,52,19.72,No,9.18
+1842,2025-04-23,West,Taco Bell,New,21.86,43,19.53,No,12.4
+1843,2025-01-14,North,McDonalds,New,18.78,48,16.57,No,11.15
+1844,2025-01-06,West,Burger King,Returning,29.49,30,4.67,Yes,0
+1845,2025-04-28,Central,KFC,Returning,32.29,40,0.78,Yes,0
+1846,2025-02-03,Central,Local Diner,Returning,30.39,60,0.5,No,14.95
+1847,2025-02-01,North,Sushi Spot,Returning,37.44,21,2.11,No,18.3
+1848,2025-01-31,Central,Pizza Hut,VIP,54.92,56,1.91,No,26.14
+1849,2025-05-22,South,Subway,Returning,24.43,42,4.06,No,11.76
+1850,2025-05-17,West,KFC,New,18.22,45,21.59,No,10.55
+1851,2025-01-04,South,KFC,Returning,16.66,28,4.63,No,9.97
+1852,2025-06-06,East,Pizza Hut,Returning,44.21,46,1.53,Yes,0
+1853,2025-01-19,West,KFC,Returning,20.12,52,1.42,No,11.58
+1854,2025-04-02,South,Sushi Spot,Returning,34.06,33,1.7,No,14.45
+1855,2025-05-15,East,KFC,Returning,23.71,43,4.09,No,13.43
+1856,2025-01-30,West,Pizza Hut,VIP,42.7,59,3.69,Yes,0
+1857,2025-03-22,Central,Sushi Spot,Returning,20.52,58,2.93,No,10.92
+1858,2025-03-24,Central,Burger King,VIP,79.17,31,1.99,No,35.29
+1859,2025-06-16,Central,Taco Bell,Returning,17.16,58,1.93,No,9.43
+1860,2025-04-19,South,Sushi Spot,Returning,17.4,46,1.6,No,9.4
+1861,2025-01-06,South,Subway,Returning,28.61,52,4.81,Yes,0
+1862,2025-02-01,South,Burger King,Returning,20.44,25,0.59,No,9.86
+1863,2025-04-22,East,KFC,New,21.5,57,16.24,No,10.73
+1864,2025-06-05,South,Local Diner,New,21.28,32,17.37,No,10.82
+1865,2025-03-05,West,Subway,Returning,23.53,59,0.32,No,10.34
+1866,2025-06-01,East,Subway,Returning,30.78,60,2.78,Yes,0
+1867,2025-02-19,West,McDonalds,New,22.05,58,13.62,No,10.92
+1868,2025-04-06,South,McDonalds,New,20.63,42,14.07,No,10.67
+1869,2025-05-25,East,Subway,New,14.44,29,22.18,No,8.0
+1870,2025-05-29,East,Sushi Spot,Returning,22.31,53,0.24,No,12.06
+1871,2025-03-05,Central,Local Diner,New,18.48,21,20.37,No,11.56
+1872,2025-06-25,West,Pizza Hut,Returning,42.74,44,2.68,No,17.5
+1873,2025-03-19,South,Pizza Hut,Returning,36.2,23,3.81,No,18.4
+1874,2025-01-15,West,Burger King,Returning,32.9,52,0.05,No,16.93
+1875,2025-03-20,Central,McDonalds,Returning,29.38,42,1.73,No,12.17
+1876,2025-04-22,North,Subway,Returning,24.35,55,1.11,No,11.88
+1877,2025-04-14,Central,Sushi Spot,Returning,26.27,58,4.24,No,13.91
+1878,2025-02-27,South,Local Diner,Returning,34.85,43,3.5,No,14.99
+1879,2025-05-29,East,Local Diner,Returning,41.49,60,4.47,No,17.51
+1880,2025-02-23,North,Pizza Hut,Returning,40.81,34,1.87,No,21.91
+1881,2025-05-16,North,Subway,Returning,35.78,43,4.73,No,15.85
+1882,2025-05-14,Central,KFC,New,15.97,46,24.75,No,9.16
+1883,2025-02-18,North,Pizza Hut,New,27.06,52,11.37,No,14.61
+1884,2025-03-04,North,Local Diner,Returning,39.33,42,0.38,No,14.61
+1885,2025-06-06,West,Pizza Hut,Returning,16.76,45,3.96,No,9.27
+1886,2025-03-27,West,Pizza Hut,VIP,35.15,20,3.39,No,19.56
+1887,2025-06-30,West,Local Diner,New,11.67,38,11.14,No,9.3
+1888,2025-01-01,Central,Taco Bell,Returning,42.76,39,2.64,No,18.53
+1889,2025-05-09,North,Subway,Returning,16.65,26,4.73,No,9.86
+1890,2025-05-26,West,Sushi Spot,New,10.7,32,20.19,No,7.18
+1891,2025-05-28,North,Subway,New,25.58,25,14.39,No,14.26
+1892,2025-01-15,East,Local Diner,Returning,27.59,40,0.88,No,15.9
+1893,2025-03-25,South,KFC,Returning,32.41,30,0.56,No,19.24
+1894,2025-03-04,Central,KFC,Returning,26.85,40,1.13,No,16.52
+1895,2025-06-28,North,Sushi Spot,Returning,15.81,43,1.31,No,9.22
+1896,2025-01-11,East,Local Diner,Returning,19.74,44,2.5,No,8.79
+1897,2025-06-12,South,KFC,New,17.85,50,18.07,No,10.08
+1898,2025-04-29,East,KFC,Returning,30.32,43,0.79,No,17.0
+1899,2025-03-26,East,Local Diner,Returning,22.44,45,4.04,No,12.24
+1900,2025-05-18,North,Pizza Hut,New,12.39,40,14.85,No,7.6
+1901,2025-04-19,East,McDonalds,Returning,15.57,24,3.3,No,10.73
+1902,2025-05-09,South,Subway,Returning,40.05,56,4.33,No,21.13
+1903,2025-01-10,East,Sushi Spot,Returning,21.83,59,3.15,No,13.04
+1904,2025-01-05,West,Subway,VIP,72.16,47,0.46,No,31.11
+1905,2025-06-23,West,Local Diner,New,27.78,58,20.62,No,17.16
+1906,2025-03-30,South,Taco Bell,Returning,26.48,51,0.62,No,14.39
+1907,2025-06-28,South,McDonalds,Returning,44.16,32,1.96,No,20.06
+1908,2025-02-20,West,McDonalds,Returning,34.2,44,4.64,No,15.26
+1909,2025-02-26,Central,Local Diner,New,20.54,33,10.55,No,11.3
+1910,2025-04-14,Central,McDonalds,New,15.17,51,25.0,No,9.36
+1911,2025-06-14,West,Local Diner,Returning,41.76,48,2.13,No,20.43
+1912,2025-04-01,South,McDonalds,New,29.51,28,13.4,No,13.78
+1913,2025-03-01,West,Pizza Hut,VIP,37.62,43,2.58,No,15.73
+1914,2025-02-20,Central,McDonalds,Returning,43.33,34,1.75,No,17.2
+1915,2025-06-03,East,Burger King,Returning,33.4,55,2.31,No,18.6
+1916,2025-06-18,West,Burger King,Returning,22.01,36,2.09,No,12.24
+1917,2025-06-14,South,Burger King,New,17.84,59,10.5,No,9.98
+1918,2025-02-23,North,Local Diner,Returning,44.3,20,0.89,Yes,0
+1919,2025-05-15,North,KFC,Returning,30.88,40,0.36,No,16.25
+1920,2025-01-16,East,McDonalds,Returning,29.24,20,3.89,No,14.82
+1921,2025-06-15,South,McDonalds,New,29.28,52,11.41,No,16.06
+1922,2025-04-08,Central,McDonalds,Returning,31.75,34,2.85,No,14.34
+1923,2025-01-04,Central,Local Diner,New,21.84,52,17.88,No,8.92
+1924,2025-04-07,East,Local Diner,Returning,41.32,30,0.56,No,21.18
+1925,2025-01-07,West,Pizza Hut,Returning,25.75,51,4.81,No,13.7
+1926,2025-05-27,Central,Sushi Spot,Returning,27.69,25,4.83,Yes,0
+1927,2025-01-10,North,Burger King,Returning,16.31,31,3.49,No,10.57
+1928,2025-03-09,West,KFC,New,28.51,38,11.79,No,14.57
+1929,2025-05-09,North,Subway,Returning,17.44,37,3.91,No,11.28
+1930,2025-03-22,Central,Taco Bell,New,16.02,54,20.52,No,8.64
+1931,2025-01-06,West,Sushi Spot,Returning,44.9,25,2.82,No,17.0
+1932,2025-06-11,North,Pizza Hut,VIP,78.25,59,4.42,No,31.77
+1933,2025-04-16,North,Taco Bell,Returning,43.79,42,3.05,No,18.54
+1934,2025-06-18,South,McDonalds,Returning,44.9,31,2.08,No,19.69
+1935,2025-05-09,West,Local Diner,Returning,18.05,59,2.55,No,11.59
+1936,2025-05-17,East,Taco Bell,Returning,28.43,34,2.68,No,11.97
+1937,2025-04-07,Central,Burger King,Returning,22.97,49,4.23,No,12.77
+1938,2025-03-08,Central,McDonalds,New,26.84,29,12.34,No,11.54
+1939,2025-03-28,North,Burger King,VIP,41.73,60,0.99,No,17.51
+1940,2025-06-30,South,Pizza Hut,Returning,18.4,60,2.77,Yes,0
+1941,2025-02-09,North,KFC,New,10.17,44,14.66,No,8.39
+1942,2025-03-11,South,KFC,VIP,50.17,26,2.27,No,20.55
+1943,2025-06-05,South,KFC,VIP,40.27,36,3.42,No,16.18
+1944,2025-04-02,East,Local Diner,New,12.09,29,21.34,No,7.16
+1945,2025-05-24,North,Local Diner,New,15.48,29,13.99,No,9.22
+1946,2025-01-31,West,McDonalds,VIP,65.81,28,2.53,Yes,0
+1947,2025-03-30,Central,Pizza Hut,Returning,33.86,33,2.98,No,14.55
+1948,2025-01-29,Central,Local Diner,VIP,49.08,22,2.37,No,22.58
+1949,2025-01-15,North,Sushi Spot,Returning,24.2,53,2.71,No,10.38
+1950,2025-04-30,South,Burger King,New,18.39,32,17.9,No,8.24
+1951,2025-03-20,East,Local Diner,Returning,26.95,32,0.78,No,12.64
+1952,2025-05-03,Central,Local Diner,Returning,23.24,41,1.02,No,12.82
+1953,2025-04-29,South,Burger King,New,26.88,56,14.13,No,11.73
+1954,2025-03-10,East,Taco Bell,New,10.72,48,21.57,No,8.49
+1955,2025-05-03,East,KFC,New,17.72,35,11.08,No,8.97
+1956,2025-01-13,South,McDonalds,New,27.62,32,13.09,No,11.41
+1957,2025-04-05,North,Local Diner,New,10.86,23,24.99,No,8.2
+1958,2025-01-02,North,Pizza Hut,Returning,40.82,60,2.69,No,21.52
+1959,2025-03-26,South,Pizza Hut,Returning,21.57,53,3.21,No,12.48
+1960,2025-04-26,West,KFC,Returning,41.42,40,0.25,No,19.73
+1961,2025-04-13,Central,Taco Bell,Returning,16.38,43,2.51,No,9.93
+1962,2025-06-15,East,Taco Bell,New,26.54,45,23.23,No,11.9
+1963,2025-04-06,South,Taco Bell,New,28.53,49,15.01,No,14.17
+1964,2025-06-17,South,Local Diner,Returning,35.81,31,2.31,No,17.84
+1965,2025-06-24,West,McDonalds,New,13.95,29,20.94,No,9.18
+1966,2025-04-12,East,Pizza Hut,Returning,24.1,48,1.2,No,10.96
+1967,2025-04-07,North,KFC,New,25.28,51,16.85,No,14.33
+1968,2025-04-09,North,Pizza Hut,Returning,20.56,56,0.66,No,10.81
+1969,2025-02-17,East,Taco Bell,New,20.9,36,12.64,No,9.51
+1970,2025-01-02,East,Local Diner,New,13.18,59,24.79,No,8.36
+1971,2025-02-22,South,Local Diner,VIP,48.17,21,2.04,No,25.86
+1972,2025-02-03,West,Subway,New,12.0,24,15.36,Yes,0
+1973,2025-03-13,East,KFC,VIP,59.41,29,0.86,Yes,0
+1974,2025-02-17,East,Local Diner,Returning,24.03,32,2.24,No,10.95
+1975,2025-06-02,South,Pizza Hut,New,16.77,54,23.17,No,8.36
+1976,2025-01-22,Central,Pizza Hut,New,20.75,41,19.0,No,12.22
+1977,2025-06-13,Central,Local Diner,New,26.86,22,20.15,No,15.86
+1978,2025-01-21,South,McDonalds,Returning,40.97,22,2.3,No,15.62
+1979,2025-02-11,West,Subway,Returning,34.39,35,4.78,No,14.02
+1980,2025-04-22,North,KFC,Returning,40.58,53,1.18,No,19.76
+1981,2025-05-29,East,Taco Bell,VIP,74.86,32,3.17,No,25.76
+1982,2025-01-10,North,Local Diner,New,19.81,35,22.43,No,10.89
+1983,2025-04-19,North,Burger King,Returning,18.65,20,0.16,No,10.64
+1984,2025-05-04,Central,KFC,New,12.77,28,15.18,No,8.77
+1985,2025-01-18,East,Local Diner,New,26.23,25,21.8,No,11.0
+1986,2025-06-26,North,McDonalds,New,16.9,28,15.39,No,12.1
+1987,2025-05-14,South,KFC,New,28.92,23,10.28,No,12.85
+1988,2025-06-19,Central,Sushi Spot,Returning,40.3,57,2.4,No,21.32
+1989,2025-06-10,North,Subway,New,28.12,24,18.98,No,15.56
+1990,2025-01-21,East,Local Diner,Returning,30.3,56,4.3,No,14.66
+1991,2025-06-03,Central,KFC,New,23.3,20,23.65,No,11.45
+1992,2025-06-17,South,Subway,Returning,28.73,29,3.71,No,15.72
+1993,2025-05-21,East,Subway,Returning,39.1,52,4.18,No,17.75
+1994,2025-04-05,South,Subway,VIP,51.87,24,4.1,No,24.94
+1995,2025-01-05,South,KFC,Returning,18.35,44,1.07,Yes,0
+1996,2025-03-15,North,Taco Bell,Returning,20.66,55,3.98,Yes,0
+1997,2025-06-10,South,Sushi Spot,Returning,22.97,24,0.26,No,14.88
+1998,2025-02-10,West,McDonalds,Returning,40.19,26,1.38,No,17.19
+1999,2025-04-19,North,Burger King,New,12.2,23,16.8,No,7.1
